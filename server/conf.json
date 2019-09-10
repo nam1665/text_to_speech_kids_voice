@@ -1,0 +1,7 @@
+{
+    "model_path":"/home/ubuntu/new_tuning_model_2/queue-September-05-2019_11+58AM-2b970c5/",
+    "model_name":"checkpoint_204500.pth.tar",
+    "model_config":"config.json",
+    "port": 5002,
+    "use_cuda": false
+}
