@@ -44,6 +44,8 @@ Check out [here](https://mycroft.ai/blog/available-voices/#the-human-voice-is-th
 | Best: [iter-120K](https://drive.google.com/open?id=1A5Hr6aSvfGgIiE20mBkpzyn3vvbR2APj) |LJSpeech| [bf7590](https://github.com/mozilla/TTS/tree/bf7590) | [link](https://soundcloud.com/user-565970875/sets/september-26-2018-bf7590) | Better for longer sentences |
 |NEW: [iter-108K](https://drive.google.com/open?id=1deQ2akq9cuyreda0DgZOiBdydkbgseWP)| TWEB | [2810d57](https://github.com/mozilla/TTS/tree/2810d57) | [link](https://soundcloud.com/user-565970875/tweb-example-108k-iters-2810d57) | https://github.com/mozilla/TTS/issues/22 | 
 
+|NEW: [iter-209k kids dataset, raw, not cleaned data](https://tts-dataset.s3-ap-southeast-1.amazonaws.com/checkpoint_204500.pth.tar)| Using 108K Pretrained Tacotron2. | 
+
 ## Example Model Outputs
 Below you see model state after 16K iterations with batch-size 32.
 
